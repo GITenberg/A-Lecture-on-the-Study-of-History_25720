@@ -1,0 +1,28 @@
+_repo: A-Lecture-on-the-Study-of-History_25720
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Acton, John Emerich Edward Dalberg Acton, Baron
+    alias: Acton, Lord
+    birthdate: 1834
+    deathdate: 1902
+    gutenberg_agent_id: '8192'
+    url: http://www.gutenberg.org/2009/agents/8192
+    wikipedia: http://en.wikipedia.org/wiki/John_Dalberg-Acton%2C_1st_Baron_Acton
+description: ''
+gutenberg_issued: '2008-06-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25720'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'History -- Study and teaching'
+- !lcc 'D'
+title: A Lecture on the Study of History
+url: http://www.gutenberg.org/ebooks/25720
